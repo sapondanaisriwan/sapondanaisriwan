@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
+</p> -->
 
 <h2 align="center">
   Welcome to Sapondanai Sriwan's profile!
@@ -29,6 +29,6 @@ My motto is "I love what I do! 💖" -->
 <img style="border-radius:4px;" src="https://media.giphy.com/media/WtbD3xfDjZLqBR3U7s/giphy.webp" alt="liz and the blue birds">
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</p> -->
