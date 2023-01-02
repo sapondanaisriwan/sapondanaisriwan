@@ -5,7 +5,7 @@
 <h2 align="center">
   Welcome to Sapondanai Sriwan's profile!
   <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp"
     width="28"
   />
 </h2>
@@ -26,7 +26,7 @@ I'm just an average student. In my free time I like coding some project.
 My motto is "I love what I do! 💖" -->
 
 <div align="center" >
-<img style="border-radius:4px;" src="https://media.tenor.com/hn9OYTSPDLsAAAAd/liz-and-the-blue-bird-liz-to-aoi-tori.gif" alt="liz and the blue birds">
+<img style="border-radius:4px;" src="https://media.giphy.com/media/WtbD3xfDjZLqBR3U7s/giphy.webp" alt="liz and the blue birds">
 </div>
 
 <p align="center">
