@@ -1,8 +1,4 @@
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p> -->
-
-<h2 align="center">
+<!-- <h2 align="center">
   Welcome to Sapondanai Sriwan's profile!
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp"
@@ -10,7 +6,6 @@
   />
 </h2>
 
-<!-- Typing Section -->
 <p align="center">
   <a href="#"
     ><img
@@ -18,17 +13,17 @@
   /></a>
 </p>
 
-
-<!-- ### Glad to see you here!
-
-I'm just an average student. In my free time I like coding some project.
-
-My motto is "I love what I do! 💖" -->
-
 <div align="center" >
-<img style="border-radius:4px;" src="https://media.giphy.com/media/WtbD3xfDjZLqBR3U7s/giphy.webp" alt="liz and the blue birds">
-</div>
+  <img style="border-radius:4px;" src="https://media.giphy.com/media/WtbD3xfDjZLqBR3U7s/giphy.webp" alt="liz and the blue birds">
+</div> -->
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p> -->
+# ⠀⢀⡤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+# ⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀   ⣀⣀⣀⠀⠀⠀ 
+# ⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀  ⣼⠃⠀⠘⢧⠀⠀
+# ⢸⡆⠀⠀⠀⠸⡆⠀⠀   ⣸⠃⠀⠀⠀⠈⢧⠀
+# ⠈⣇⠀⠀⠀   ⣧⠀   ⠀⡏⠀⢦⠀⠀⠀⠸⡆
+# ⠀⢹⡀⠀⠀⠀⢸⠀     ⢸⠇⠀⠘⢧⡀⠀⣸⠃
+# ⠀⠀⢳⠀⠀⠀⢸⡆     ⢸⠀  ⠀⣼⠙⠋
+<div align="center" >
+  <img src="https://user-images.githubusercontent.com/64634605/235765428-254621c7-e056-4b97-b50c-72661f9d567d.png" alt="liz and the blue birds">
+</div>
