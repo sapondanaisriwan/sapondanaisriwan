@@ -17,13 +17,15 @@
   <img style="border-radius:4px;" src="https://media.giphy.com/media/WtbD3xfDjZLqBR3U7s/giphy.webp" alt="liz and the blue birds">
 </div> -->
 
-# ⠀⢀⡤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-# ⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀   ⣀⣀⣀⠀⠀⠀ 
-# ⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀  ⣼⠃⠀⠘⢧⠀⠀
-# ⢸⡆⠀⠀⠀⠸⡆⠀⠀   ⣸⠃⠀⠀⠀⠈⢧⠀
-# ⠈⣇⠀⠀⠀   ⣧⠀   ⠀⡏⠀⢦⠀⠀⠀⠸⡆
-# ⠀⢹⡀⠀⠀⠀⢸⠀     ⢸⠇⠀⠘⢧⡀⠀⣸⠃
-# ⠀⠀⢳⠀⠀⠀⢸⡆     ⢸⠀  ⠀⣼⠙⠋
-<div align="center" >
-  <img src="https://user-images.githubusercontent.com/64634605/235765428-254621c7-e056-4b97-b50c-72661f9d567d.png" alt="liz and the blue birds">
-</div>
+
+```
+ ⠀⢀⡤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+ ⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀   ⣀⣀⣀⠀⠀⠀
+ ⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀  ⣼⠃⠀⠘⢧⠀⠀
+ ⢸⡆⠀⠀⠀⠸⡆⠀⠀ ⠀⠀⠀⠀  ⣸⠃⠀⠀⠀⠈⢧⠀
+ ⠈⣇⠀⠀⠀   ⣧⠀ ⠀⠀⠀⠀  ⠀⡏⠀⢦⠀⠀⠀⠸⡆
+ ⠀⢹⡀⠀⠀⠀⢸⠀   ⠀⠀⠀⠀  ⢸⠇⠀⠘⢧⡀⠀⣸⠃
+ ⠀⠀⢳⠀⠀⠀⢸⡆   ⠀⠀⠀⠀  ⢸⠀  ⠀⣼⠙
+```
+
+  <img src="https://user-images.githubusercontent.com/64634605/235774082-c536779d-f98b-4e00-85bc-d7364ace90bd.png" alt="liz and the blue birds">
