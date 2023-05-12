@@ -18,14 +18,16 @@
 </div> -->
 
 
-```
- ⠀⢀⡤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+<!--  ⠀⢀⡤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  ⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀   ⣀⣀⣀⠀⠀⠀
  ⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀  ⣼⠃⠀⠘⢧⠀⠀
  ⢸⡆⠀⠀⠀⠸⡆⠀⠀ ⠀⠀⠀⠀  ⣸⠃⠀⠀⠀⠈⢧⠀
  ⠈⣇⠀⠀⠀   ⣧⠀ ⠀⠀⠀⠀  ⠀⡏⠀⢦⠀⠀⠀⠸⡆
  ⠀⢹⡀⠀⠀⠀⢸⠀   ⠀⠀⠀⠀  ⢸⠇⠀⠘⢧⡀⠀⣸⠃
  ⠀⠀⢳⠀⠀⠀⢸⡆   ⠀⠀⠀⠀  ⢸⠀  ⠀⣼⠙
-```
-  <img src="https://media.tenor.com/KJ_he9DiCg0AAAAd/kita-ikuyo-bocchi-the-rock.webp" alt="liz and the blue birds">
+ -->
+<div align="center">
+    <img src="https://media.tenor.com/KJ_he9DiCg0AAAAd/kita-ikuyo-bocchi-the-rock.webp" alt="liz and the blue birds">
+</div>
 <!--   <img src="https://user-images.githubusercontent.com/64634605/235774082-c536779d-f98b-4e00-85bc-d7364ace90bd.png" alt="liz and the blue birds"> -->
