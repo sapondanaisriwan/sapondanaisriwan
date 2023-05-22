@@ -28,6 +28,6 @@
  ⠀⠀⢳⠀⠀⠀⢸⡆   ⠀⠀⠀⠀  ⢸⠀  ⠀⣼⠙
  -->
 <div align="center">
-    <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/7f9394d9-631d-4aaf-a962-414c60b35d5c" alt="liz and the blue birds">
+    <img src="https://i.imgur.com/eNxSNhb.jpeg" alt="liz and the blue birds">
 </div>
 <!--   <img src="https://user-images.githubusercontent.com/64634605/235774082-c536779d-f98b-4e00-85bc-d7364ace90bd.png" alt="liz and the blue birds"> -->
