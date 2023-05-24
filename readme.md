@@ -29,6 +29,6 @@
  -->
 
 <div align="center">
-    <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/20157bb0-c143-466e-967a-760475dc784e" alt="liz and the blue birds">
+    <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/200bd0a6-25ac-4e5d-b396-2d44928f2b1e" alt="liz and the blue birds">
 </div>
 <!--   <img src="https://user-images.githubusercontent.com/64634605/235774082-c536779d-f98b-4e00-85bc-d7364ace90bd.png" alt="liz and the blue birds"> -->
