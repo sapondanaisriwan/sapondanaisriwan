@@ -29,10 +29,10 @@
  -->
  <div align="center">
   
-# HBD TO ME 🎂🎂
+# Best friend forever 🥲
 
 </div>
 <div align="center">  
-    <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/acb3afbf-f756-427e-a512-8cee9f24016e" alt="liz and the blue birds">
+    <img src="https://pbs.twimg.com/media/Fxd23S8aMAAkAJJ?format=jpg&name=large" alt="liz and the blue birds">
 </div>
 <!--   <img src="https://user-images.githubusercontent.com/64634605/235774082-c536779d-f98b-4e00-85bc-d7364ace90bd.png" alt="liz and the blue birds"> -->
