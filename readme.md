@@ -29,10 +29,10 @@
  -->
  <div align="center">
   
-# Why is she crying???? 🥲
-
+# Her wife is very CUTE 💖💖
+# Awww my heart 
 </div>
 <div align="center">  
-    <img src="https://i.redd.it/bu4csqh6qz4b1.jpg" alt="liz and the blue birds">
+    <img src="https://pbs.twimg.com/media/Fr6k2CfXgAMRTD9?format=jpg&name=large" alt="liz and the blue birds">
 </div>
 <!--   <img src="https://user-images.githubusercontent.com/64634605/235774082-c536779d-f98b-4e00-85bc-d7364ace90bd.png" alt="liz and the blue birds"> -->
