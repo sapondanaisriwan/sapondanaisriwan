@@ -29,7 +29,7 @@
  -->
  <div align="center">
   
-# รักข้างเดียว = One sided love 🥲
+# รักข้างเดียว 🥲
 </div>
 <div align="center">  
     <img src="https://pbs.twimg.com/media/FziAwRFWYAMLJmO?format=jpg&name=large" alt="liz and the blue birds">
