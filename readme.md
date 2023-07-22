@@ -29,7 +29,7 @@
  -->
  <div align="center">
   
-# รักข้างเดียว 🥲
+# อ้ามมม
 </div>
 <div align="center">  
     <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/83ce3a6c-df03-41e9-a95e-4a24c47921f1" alt="liz and the blue birds">
