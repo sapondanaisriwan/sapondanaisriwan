@@ -32,6 +32,9 @@
 # รักข้างเดียว 🥲
 </div>
 <div align="center">  
-    <img src="https://pbs.twimg.com/media/FziAwRFWYAMLJmO?format=jpg&name=large" alt="liz and the blue birds">
+    <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/83ce3a6c-df03-41e9-a95e-4a24c47921f1" alt="liz and the blue birds">
 </div>
+
+<!-- <img src="https://pbs.twimg.com/media/FziAwRFWYAMLJmO?format=jpg&name=large" alt="liz and the blue birds"> -->
+
 <!--   <img src="https://user-images.githubusercontent.com/64634605/235774082-c536779d-f98b-4e00-85bc-d7364ace90bd.png" alt="liz and the blue birds"> -->
