@@ -29,10 +29,10 @@
  -->
  <div align="center">
   
-# อ้ามมม
+# 💘
 </div>
 <div align="center">  
-    <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/83ce3a6c-df03-41e9-a95e-4a24c47921f1" alt="liz and the blue birds">
+    <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/296b6e1b-aecc-49b9-a4d9-f5971fe4f0aa" alt="liz and the blue birds">
 </div>
 
 <!-- <img src="https://pbs.twimg.com/media/FziAwRFWYAMLJmO?format=jpg&name=large" alt="liz and the blue birds"> -->
