@@ -32,7 +32,7 @@
 # 💘
 </div>
 <div align="center">  
-    <img src="https://pbs.twimg.com/media/F_VQr-ZWYAAIyBD?format=jpg&name=large" alt="liz and the blue birds">
+    <img src="https://pbs.twimg.com/media/F_iSKKnaMAA4Pn0?format=jpg&name=large" alt="liz and the blue birds">
 </div>
 
 <!-- https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/ef1ef9d1-3d9f-498e-a535-317bb7a55567 -->
