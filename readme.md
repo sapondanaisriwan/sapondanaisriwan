@@ -28,13 +28,16 @@
  ⠀⠀⢳⠀⠀⠀⢸⡆   ⠀⠀⠀⠀  ⢸⠀  ⠀⣼⠙
  -->
  <div align="center">
-  
+
 # 💘
 </div>
 <div align="center">  
-    <img src="https://pbs.twimg.com/media/F_iSKKnaMAA4Pn0?format=jpg&name=large" alt="liz and the blue birds">
+    <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/af5c195b-21f1-4c70-990d-933eec0c89e3" alt="liz and the blue birds">
 </div>
 
+<!-- กอดกัน https://pbs.twimg.com/media/F_iSKKnaMAA4Pn0?format=jpg&name=large -->
+
+<!-- มช. https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/af5c195b-21f1-4c70-990d-933eec0c89e3 -->
 <!-- https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/ef1ef9d1-3d9f-498e-a535-317bb7a55567 -->
 
 <!-- <img src="https://pbs.twimg.com/media/FziAwRFWYAMLJmO?format=jpg&name=large" alt="liz and the blue birds"> -->
