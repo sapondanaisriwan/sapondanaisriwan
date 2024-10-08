@@ -32,7 +32,7 @@
 # รักคุณหม๋า 💘
 </div>
 <div align="center">  
-<!--       <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/4342b78b-9208-44dc-ae6a-ddbff96a44fc" alt="liz and the blue birds"> -->
+      <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/4342b78b-9208-44dc-ae6a-ddbff96a44fc" alt="liz and the blue birds">
 </div>
 
 <!-- กอดกัน https://pbs.twimg.com/media/F_iSKKnaMAA4Pn0?format=jpg&name=large -->
