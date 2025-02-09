@@ -29,7 +29,7 @@
  -->
  <div align="center">
 
-# รักคุณหม๋า🐶 น้องแมว 😺💘
+# รักน้องแมววว 😺💘
 
 </div>
 <div align="center">  
