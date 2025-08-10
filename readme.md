@@ -34,9 +34,10 @@
 </div>
 
 <div align="center">  
-  <img alt="image" height="600px" src="https://github.com/user-attachments/assets/d279d34e-d88a-4d18-ad34-d87f952b9ee0" />
+  <img alt="image" height="600px" src="https://github.com/user-attachments/assets/da4f4d1c-3913-4312-9484-5d46d0f9ee87" />
 
 </div>
+
 <!-- liz and the blue bird https://github.com/user-attachments/assets/d279d34e-d88a-4d18-ad34-d87f952b9ee0 -->
 
 <!-- กอดกัน https://pbs.twimg.com/media/F_iSKKnaMAA4Pn0?format=jpg&name=large -->
