@@ -28,13 +28,16 @@
  ⠀⠀⢳⠀⠀⠀⢸⡆   ⠀⠀⠀⠀  ⢸⠀  ⠀⣼⠙
  -->
  <div align="center">
-
-# รักน้องแหม่ววว 😺
+   
+# โลกมันกว้าง การได้พบกัน ก็นับเป็นเรื่องที่น่ายินดี
 
 </div>
+
 <div align="center">  
-      <img src="https://github.com/sapondanaisriwan/sapondanaisriwan/assets/64634605/4342b78b-9208-44dc-ae6a-ddbff96a44fc" alt="liz and the blue birds">
+  <img alt="image" height="600px" src="https://github.com/user-attachments/assets/d279d34e-d88a-4d18-ad34-d87f952b9ee0" />
+
 </div>
+<!-- liz and the blue bird https://github.com/user-attachments/assets/d279d34e-d88a-4d18-ad34-d87f952b9ee0 -->
 
 <!-- กอดกัน https://pbs.twimg.com/media/F_iSKKnaMAA4Pn0?format=jpg&name=large -->
 
